@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This case study explores a comprehensive analysis of a car sales dataset. The goal was to clean the data, engineer new features, categorize vehicle performance, and uncover insights that help identify best-performing models, pricing trends, and profit behaviors.
+This case study explores a comprehensive analysis of a car sales dataset. The goal was to clean the data, categorize vehicle performance, and uncover insights that help identify best-performing models, pricing trends, and profit behaviors.
 
 ---
 
